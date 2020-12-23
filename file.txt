@@ -1,0 +1,2 @@
+This is an simple text file for perl code read and write.
+Happy perl coding. :)
