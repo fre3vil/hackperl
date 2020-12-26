@@ -12,5 +12,8 @@ use warnings;
 
 my @aaa = (1..10);
 
+foreach my $key (@aaa) {
+	print "$key\n";
+}
 
 

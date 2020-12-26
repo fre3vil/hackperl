@@ -7,6 +7,14 @@ use utf8;
 use strict;
 use warnings;
 
-print "Hello perl!\n";
+
+
+my @array_variable = (1..4);
+foreach (@array_variable) {
+	print $_."\n";
+}
+
+
+
 
 
